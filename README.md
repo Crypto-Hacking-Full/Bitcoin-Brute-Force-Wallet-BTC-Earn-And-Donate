@@ -10,7 +10,7 @@ Remember, `it is just a demo code, you should download it and run on your pc`, h
 if you want more :
 
  
-~BTC Address:   **1mRae8XtcbfHth9R7WFn5EytBT3UiZUAR** ~
+~BTC Address:   **** ~
 
 
 
