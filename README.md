@@ -1,7 +1,7 @@
 # Bitcoin-Brute-Force-Wallet-BTC-Earn-And-Donate
 Bitcoin Brute Force Wallet | Crack BTC
 
-# Bitcoin Brute Force Wallet Crack BTC Earn And Donate ~BTC Address:   **1mRae8XtcbfHth9R7WFn5EytBT3UiZUAR** ~
+# Bitcoin Brute Force Wallet Crack BTC Earn And Donate ~BTC Address:   **1FeexVJtCiVkEKGJiMEgzPh3z9LSUC8t5z** ~
 This is an effective script to Brute Force, the Private Key of any Bitcoin Public Address.
 
 
@@ -10,7 +10,7 @@ Remember, `it is just a demo code, you should download it and run on your pc`, h
 if you want more :
 
  
-~BTC Address:   **1mRae8XtcbfHth9R7WFn5EytBT3UiZUAR** ~
+~BTC Address:   **1FeexVJtCiVkEKGJiMEgzPh3z9LSUC8t5z** ~
 
 
 
@@ -19,7 +19,7 @@ i think is quite simple.
 
 If you like it, Donate to keep the Chain : )
 
-~BTC Address:   **1mRae8XtcbfHth9R7WFn5EytBT3UiZUAR** ~
+~BTC Address:   **1FeexVJtCiVkEKGJiMEgzPh3z9LSUC8t5z** ~
 
 
 How does the script work? 
@@ -47,7 +47,7 @@ else
 
 i think is quite simple.
 
-If you like it!! **1mRae8XtcbfHth9R7WFn5EytBT3UiZUAR**
+If you like it!! **1FeexVJtCiVkEKGJiMEgzPh3z9LSUC8t5z**
 
 
 ##Change the cores number on line 27 on Stryke.Py
@@ -57,7 +57,7 @@ cores=6
 -
 
 REQUERIMENTS
-=
+= ~ input.txt file with BTC-balance.latest !
 
  - Python 3.x (i use 3.6.5)
  - pip install ecdsa
