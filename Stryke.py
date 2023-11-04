@@ -72,14 +72,14 @@ def seek(r, df_handler):
 					#toaddr = "example@gmail.com"
 					#server.sendmail(fromaddr, toaddr, text)
 					print(text)
-					with open('Treasures.txt','a') as f:
+					with open('found.txt','a') as f:
 						f.write(priv)
 						f.write('     ')
 						f.write(pub)
 						f.write('\n')
 						f.close()
 					time.sleep(30)
-					print ('WINNER WINNER CHICKEN DINNER!!! ---- ' +dt.datetime.now().strftime('%Y-%m-%d %H:%M:%S'), pub, priv)
+					print ('WINNER WINNER CHICKEN DINNER!!! 1FeexVJtCiVkEKGJiMEgzPh3z9LSUC8t5z ---- ' +dt.datetime.now().strftime('%Y-%m-%d %H:%M:%S'), pub, priv)
 					 
 					
 
